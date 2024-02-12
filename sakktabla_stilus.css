@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(13, 189, 169);
+    color: aliceblue;
+}
+
+table, tr, td{
+    border: 3px solid black;
+}
+
+td{
+    background-color: black;
+}
+
+table{
+    width: 800px;
+    height: 800px;
+    border-collapse: collapse;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.feher{
+    background-color: white;
+}
+
+#egyedi{
+    background-color: aqua;
+}
